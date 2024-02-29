@@ -1,6 +1,6 @@
 # Login Register Aiogram 
 
-#create root.py
+root.py
 ```python
 TOKEN = "Bot token"
 CHAT_ID = Channel id
